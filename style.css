@@ -1,0 +1,8 @@
+body{
+    background-color:beige;
+}
+canvas{
+    border:5px solid red;
+    background-size: cover;
+    background-image:url('images/background.jpg')
+}
